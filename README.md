@@ -37,7 +37,7 @@ cv2.imwrite("pic_1",image_1)
 
 ```
 iii) #Find the shape of the Image
-``python3
+```python3
 
 print(image_1.shape)
 
